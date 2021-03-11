@@ -17,6 +17,7 @@ div {
 }
 .footer  { 
   vertical-align: bottom;
+  font-size: 8px;
 }
 img {
   display: block;
